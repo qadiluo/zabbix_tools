@@ -83,12 +83,3 @@ $ git push -f origin master
 > * linux终端表格----------------------------------------------[linux_terminal](https://github.com/BillWang139967/linux_terminal)
 > * shell菜单工具----------------------------------------------[shell_menu](https://github.com/BillWang139967/shell_menu)
 
-## 小额捐款
-
-如果你觉得zabbix_manager对你有帮助, 可以对作者进行小额捐款(支付宝)
-
-![Screenshot](images/5.jpg)
-
-## 致谢
-
-1. 感谢南非蜘蛛的指导
